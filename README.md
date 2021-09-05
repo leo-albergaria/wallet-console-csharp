@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/132134559-982d6798-883d-4dc4-9d3b-3595056fdafb.png" align="left" height="150px" width="150px">
+    <h1># Primeiros passos com .NET</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Nesse curso o aluno terá o primeiro contato com a plataforma .NET e sua linguagem C# aprendendo onde e como utilizá-las. Será demonstrato como preparar um ambiente, lidar com erros, classes e objetos.
     </p>
 </p>      
 
