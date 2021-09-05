@@ -1,0 +1,16 @@
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\bin\Debug\net5.0\wallet-revisao-csharp.exe
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\bin\Debug\net5.0\wallet-revisao-csharp.deps.json
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\bin\Debug\net5.0\wallet-revisao-csharp.runtimeconfig.json
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\bin\Debug\net5.0\wallet-revisao-csharp.runtimeconfig.dev.json
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\bin\Debug\net5.0\wallet-revisao-csharp.dll
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\bin\Debug\net5.0\ref\wallet-revisao-csharp.dll
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\bin\Debug\net5.0\wallet-revisao-csharp.pdb
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.csproj.AssemblyReference.cache
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.AssemblyInfoInputs.cache
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.AssemblyInfo.cs
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.csproj.CoreCompileInputs.cache
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.dll
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\ref\wallet-revisao-csharp.dll
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.pdb
+C:\0_WorkSpaceWEB\WEB-Wallet\wallet-revisao-csharp\obj\Debug\net5.0\wallet-revisao-csharp.genruntimeconfig.cache
